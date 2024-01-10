@@ -4,7 +4,7 @@
 
 ## :computer: Como acessar:
 
-Para acessar o projeto [clique aqui!](https://letzc.github.io/alura-plus/alura-plus/index.html)
+Para acessar o projeto [clique aqui!](https://alura-plus-letzc.vercel.app)
 
 ## 🛠️ Tecnologias usadas:
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
